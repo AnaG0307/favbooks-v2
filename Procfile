@@ -1,0 +1,1 @@
+web: gunicorn favbooks-v2.wsgi
